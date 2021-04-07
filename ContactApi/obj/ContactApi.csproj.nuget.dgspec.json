@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactApi\\ContactApi\\ContactApi.csproj": {}
+    "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactAPI\\ContactApi\\ContactApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactApi\\ContactApi\\ContactApi.csproj": {
+    "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactAPI\\ContactApi\\ContactApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactApi\\ContactApi\\ContactApi.csproj",
+        "projectUniqueName": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactAPI\\ContactApi\\ContactApi.csproj",
         "projectName": "ContactApi",
-        "projectPath": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactApi\\ContactApi\\ContactApi.csproj",
+        "projectPath": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactAPI\\ContactApi\\ContactApi.csproj",
         "packagesPath": "C:\\Users\\Jakubko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactApi\\ContactApi\\obj\\",
+        "outputPath": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactAPI\\ContactApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jakubko\\AppData\\Roaming\\NuGet\\NuGet.Config",

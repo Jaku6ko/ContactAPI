@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ri68jIR3BZrObMk0oQJRey2wAxMQdjBy6YAz910lercO5h8erm1CVdd1OopfNFEWMuT0vHX7NtNNWdLbuo8myQ==",
+  "dgSpecHash": "y2igdJQvqqudhcAAy20NVjQKh/OfRLiK/4HL1Rptfaa9Hxm6FsGv/ce57/oD/68tQmgFAvuePvXPx40aYVULhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactApi\\ContactApi\\ContactApi.csproj",
+  "projectFilePath": "C:\\Users\\Jakubko\\Desktop\\Contact Assignment\\Contact API\\ContactAPI\\ContactApi\\ContactApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jakubko\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Jakubko\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
